@@ -22,7 +22,7 @@ import static org.junit.jupiter.api.Assertions.*;
             int resultado = calc.sumar(2, 3);
 
             // Verificamos si el resultado es el esperado
-            assertEquals(5, resultado);
+            assertEquals(6, resultado);
 
         }
 
